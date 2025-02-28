@@ -7,4 +7,5 @@ public interface ChambreService {
     void deleteChambre(long idChambre);
     Chambre getChambre(long idChambre);
     List<Chambre> getAllChambres();
+
 }
